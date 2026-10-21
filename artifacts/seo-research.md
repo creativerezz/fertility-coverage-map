@@ -1,5 +1,28 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-10-21
+
+**New findings:**
+- No material changes to DMHC revised APL 25-021 (issued Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) or Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026). Blue Shield is reviewing potential impacts; any benefit changes require DMHC approval. Approved 2026 benefits remain in place for plans renewing before July 1, 2027.
+- No new enacted state fertility insurance mandates, major bill updates, court rulings, or significant news affecting coverage identified since the prior entry. Federal excepted fertility benefits proposal (May 2026) remains under review with comments closed.
+- Broker/carrier summaries (Claremont Oct 16, Amwins Oct 13) restate the Blue Shield position without additional substance. Other 2026 effective items (e.g., Illinois mandate expansion removing small-employer threshold, Minnesota HF1758, Georgia fertility preservation) unchanged.
+
+**Sources:**
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/SB729FrequentlyAskedQuestions.pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- https://www.claremontcompanies.com/blue-shield-sb-729-fertility-coverage-additional-guidance/
+- https://www.amwinsconnect.com/knowledge-hub/news-detail/blue-shield---sb-729-fertility-coverage
+- State maps/guides: Maven Clinic (last noted July 2026), INCIID, Family Inceptions, Movement Advancement Project, World Population Review.
+
+**Content gaps / keyword opportunities:**
+- Top Google results for "does California insurance cover egg freezing 2026", "SB 729 coverage", and "state fertility insurance mandate map 2026" continue to be dominated by fertility clinic blogs (Laurel Fertility, Gen 5 Fertility, SCRC, Center for Reproduction), LegalClarity explainers, Resolve.org FAQ, and broker/HR resources (Keenan, Amwins). Interactive maps from Maven Clinic and INCIID rank for state-level queries.
+- Gaps/opportunities: Explicit medically necessary (iatrogenic) fertility preservation vs elective/social egg freezing distinction under SB 729/APL; small-group "offer" vs large-group "provide" requirements and renewal timing through mid-2027; self-funded ERISA plans and federal excepted benefits status; comparison of 2026 state effective dates (CA, IL, MN, GA, etc.).
+
+**Suggested next:**
+- Blog post or map annotation: "Does California Insurance Cover Egg Freezing in 2026? Medically Necessary vs Elective Under SB 729 and DMHC APL 25-021".
+- Monitor carrier responses as APL review concludes; update map for any confirmed benefit design changes or other state developments.
+
 ## 2026-10-20
 
 **New findings:**
