@@ -1,5 +1,24 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-10-22
+
+**New findings:**
+- No material changes since 2026-10-21. DMHC revised APL 25-021 (Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) and accompanying SB 729 FAQ (Oct 5, 2026) remain unchanged. Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026) still note active review of revised guidance; any benefit changes subject to DMHC approval. 2026 approved benefits unaffected for earlier renewals.
+- No new enacted state fertility insurance mandates, significant bill advances, court rulings, or major news impacting coverage (including egg freezing) identified. Existing 2026 items (CA SB 729 large-group mandate, IL expansion, GA/NV preservation, etc.) and pending legislation (e.g., OR, MN, VA 2028) unchanged. No relevant federal updates.
+
+**Sources:**
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/SB729FrequentlyAskedQuestions.pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- Broker notes: Claremont (Oct 16), Amwins (Oct 13). LA Times (Sept 27) on coverage gaps. State overviews: Family Inceptions, Maven Clinic (July update), INCIID, Resolve, World Population Review, KFF.
+
+**Content gaps / keyword opportunities:**
+- Top results for "does California insurance cover egg freezing 2026", "SB 729 coverage", "state fertility insurance mandate map 2026" remain clinic explainers (Laurel, Gen 5, SCRC, Center for Reproduction, LegalClarity), Resolve FAQ, Family Inceptions guide, and HR/broker resources. Interactive maps (Maven, INCIID) compete for national queries.
+- Opportunities: Detailed APL clarifications on "completed" retrievals, donor cohort equivalents, surrogate screenings, cryopreservation notices/transport, and small-group offer vs large-group mandate; explicit medical vs elective egg freezing under SB 729; plan renewal timing and CalPERS July 2027 start; ERISA self-funded exemptions.
+
+**Suggested next:**
+- Blog or map update focused on practical APL 25-021 implications for mid-2027+ renewals and egg freezing distinctions. Continue monitoring carrier implementations and other state bills.
+
 ## 2026-10-21
 
 **New findings:**
