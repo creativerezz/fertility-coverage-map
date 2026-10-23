@@ -1,5 +1,24 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-10-23
+
+**New findings:**
+- No material changes. DMHC revised APL 25-021 (Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) and SB 729 FAQ (Oct 5, 2026) remain unchanged. Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026) continue to note active review of the revised guidance; any benefit changes subject to DMHC approval. 2026 approved benefits unaffected for renewals before July 1, 2027.
+- No new enacted state fertility insurance mandates, significant bill advances, court rulings, or major news impacting coverage (including egg freezing) or SB 729 identified. Existing 2026 items (CA SB 729 large-group mandate, IL expansion, GA/NV preservation, etc.) and pending legislation unchanged. No relevant federal updates.
+
+**Sources:**
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/SB729FrequentlyAskedQuestions.pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- Broker notes: Claremont (Oct 16), Amwins (Oct 13). State overviews: Maven Clinic (last noted July 2026), INCIID, Family Inceptions, Resolve, etc.
+
+**Content gaps / keyword opportunities:**
+- Top results for "does California insurance cover egg freezing 2026", "SB 729 coverage", "state fertility insurance mandate map 2026" remain clinic explainers (Laurel Fertility, Gen 5 Fertility, SCRC, Center for Reproduction), Resolve FAQ, LegalClarity, Family Inceptions guide, and interactive maps (Maven Clinic, INCIID).
+- Opportunities: Detailed APL clarifications on completed retrievals, donor cohort equivalents, storage notices/transport, and mid-2027+ renewal implications; explicit medical vs elective egg freezing under SB 729; ERISA self-funded exemptions; plan renewal timing.
+
+**Suggested next:**
+- Monitor carrier implementations as APL review concludes. Potential blog or map update on practical APL 25-021 implications for mid-2027 renewals and medical vs elective egg freezing distinctions.
+
 ## 2026-10-22
 
 **New findings:**
