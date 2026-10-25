@@ -1,5 +1,23 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-10-25
+
+**New findings:**
+- No material changes. DMHC revised APL 25-021 (Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) and SB 729 FAQ unchanged. Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026) continue to note active review of the revised guidance; any benefit changes subject to DMHC approval. Approved 2026 benefits remain in place for plans renewing before July 1, 2027.
+- No new enacted state fertility insurance mandates, significant bill advances, court rulings, or major news impacting coverage (including egg freezing) or SB 729. Illinois Castro Law expansion (effective Jan 1, 2026, removing >25 employee threshold) and other 2026 items unchanged. Idaho Prop 1 (reproductive freedom including fertility treatment) on ballot. No relevant US court rulings on mandates.
+
+**Sources:**
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- Broker notes: Claremont (Oct 16), Amwins (Oct 13). State overviews: Maven Clinic, INCIID, Family Inceptions, Resolve, Keenan. Illinois: https://help.ihealthagents.com/hc/en-us/articles/37522289301015-Is-egg-freezing-in-Illinois-covered-by-insurance
+
+**Content gaps / keyword opportunities:**
+- Top results for "does California insurance cover egg freezing 2026", "SB 729 coverage", "state fertility insurance mandate map 2026" remain clinic explainers (Laurel Fertility, Gen 5 Fertility, SCRC, Center for Reproduction), Resolve FAQ, LegalClarity, Family Inceptions guide, and interactive maps (Maven Clinic, INCIID).
+- Opportunities: Detailed APL clarifications on completed retrievals, donor cohort equivalents, storage notices/transport, and mid-2027+ renewal implications; explicit medical vs elective egg freezing under SB 729; ERISA self-funded exemptions; plan renewal timing and CalPERS July 2027 start; Illinois 2026 expansion comparison.
+
+**Suggested next:**
+- Monitor carrier implementations as APL review concludes. Potential blog or map update on practical APL 25-021 implications for mid-2027 renewals and medical vs elective egg freezing distinctions. Track Idaho Prop 1 outcome.
+
 ## 2026-10-24
 
 **New findings:**
