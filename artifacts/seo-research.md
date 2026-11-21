@@ -1,5 +1,26 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-11-21
+
+**New findings:**
+- No material changes to guidance. DMHC revised APL 25-021 (Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) and companion SB 729 FAQ (Oct 5, 2026) remain current. Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026) continue to note active review of the revised guidance; any benefit changes subject to DMHC approval. Core SB 729 requirements (in effect for contracts issued/amended/renewed on or after Jan 1, 2026) unchanged.
+- New empirical research: Journal of Clinical Oncology article (published Nov 20, 2026; DOI 10.1200/JCO-26-01296) "Reach of State-Mandated Insurance Coverage for Fertility Preservation in Patients With Cancer." In a retrospective cohort of 903 young patients with cancer at an NCI-designated center, only 18% were eligible for state-mandated FP benefits. Ineligibility driven primarily by Medicaid (49%), ineligible commercial plans (37%), military (9%), federal-employee plans (2%), or uninsured (3%). Non-English-speaking patients 64% less likely to be eligible. Among eligible patients, insurers inaccurately reported no FP coverage 28% of the time; verification median 45 minutes. Concludes California's mandate excludes most at-risk patients and perpetuates disparities.
+- No new enacted state fertility insurance mandates, significant bill advances, court rulings, or other major news impacting coverage (including egg freezing) or SB 729. Existing 2026 items and pending legislation unchanged.
+
+**Sources:**
+- https://ascopubs.org/doi/10.1200/JCO-26-01296
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/SB729FrequentlyAskedQuestions.pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- State overviews: Maven Clinic, INCIID, Family Inceptions, Resolve, Keenan, LA Times (Sept 27) on gaps. DMHC All Plan Letters page confirms APL 25-021 revised 10/5/2026.
+
+**Content gaps / keyword opportunities:**
+- Top results for "does California insurance cover egg freezing 2026", "SB 729 coverage", "state fertility insurance mandate map 2026" remain clinic explainers (Laurel Fertility, Gen 5 Fertility, SCRC, Center for Reproduction), Resolve FAQ, LegalClarity, Family Inceptions guide, and interactive maps (Maven Clinic, INCIID).
+- Opportunities: Empirical data on limited real-world reach of CA FP mandates (eligibility by plan type, verification barriers, disparities by language/race/SVI); detailed APL clarifications on completed retrievals (including zero-oocyte counts), donor cohort equivalents, storage notices/transport, and mid-2027+ renewal implications; explicit medical vs elective egg freezing under SB 729; ERISA self-funded exemptions and federal excepted benefits pathway; plan renewal timing and CalPERS July 2027 start.
+
+**Suggested next:**
+- Blog post or map annotation on real-world reach and verification challenges for California fertility preservation coverage (drawing on the JCO study). Monitor carrier implementations as APL review concludes. Track any further empirical studies or federal proposal developments.
+
 ## 2026-11-19
 
 **New findings:**
