@@ -1,5 +1,28 @@
 # SEO Research Log - Fertility Coverage Map
 
+## 2026-11-25
+
+**New findings:**
+- No material changes to guidance or law. DMHC revised APL 25-021 (Oct 5, 2026; revisions effective for contracts issued/amended/renewed on or after July 1, 2027) and companion SB 729 FAQ (Oct 5, 2026) remain current. Blue Shield of California SB 729 External FAQs (updated Oct 13, 2026) continue to note active review of the revised guidance; any benefit changes subject to DMHC approval. Core SB 729 requirements (in effect for contracts issued/amended/renewed on or after Jan 1, 2026) unchanged.
+- California Healthcare Law blog post (circa Nov 23, 2026) discusses SB 729 surrogacy implications under the APL, including coverage of medically necessary health testing of the surrogate, prohibition on conditioning screening on an assisted reproduction agreement, and the line that the enrollee’s plan is not responsible for the surrogate’s post-embryo-transfer health care costs (including maternity) except as required under the surrogate’s own plan. The Oct 2026 revision (effective mid-2027) adds that services to enrollee, donor, or surrogate must be covered by the enrollee’s plan regardless of the donor’s or surrogate’s coverage.
+- Proposed California Civil Rights Council regulations (publicized mid-Nov 2026; comments due Dec 8, 2026) would expand FEHA/CFRA pregnancy-related definitions to include potential/intended pregnancy, infertility, fertility treatment, and contraception use. These address leave/accommodations, not insurance coverage mandates.
+- No new enacted state fertility insurance mandates, significant bill advances, court rulings, or major news impacting coverage (including egg freezing) or SB 729. JCO study on limited FP mandate reach (noted Nov 21) remains the most recent empirical data.
+
+**Sources:**
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/APL25-021ImplementationofSenateBill729(2024)-REVISED(10_5_2026).pdf
+- https://dmhc.ca.gov/Portals/0/Docs/OPL/SB729FrequentlyAskedQuestions.pdf
+- https://www.blueshieldca.com/content/dam/bsca/en/broker/unauth/documents/SB729-FAQs-External.pdf
+- https://californiahealthcarelaw.com/?m=202611
+- https://hrcalifornia.calchamber.com/articles/proposed-updates-to-california-pregnancy-accommodations-leaves
+- State overviews: Maven Clinic, INCIID, Family Inceptions, Resolve, Keenan, LA Times (Sept 27) on gaps. DMHC All Plan Letters page confirms APL 25-021 revised 10/5/2026.
+
+**Content gaps / keyword opportunities:**
+- Top results for “does California insurance cover egg freezing 2026”, “SB 729 coverage”, “state fertility insurance mandate map 2026” remain clinic explainers (Laurel Fertility, Gen 5 Fertility, SCRC, Center for Reproduction, Cofertility), Resolve FAQ, LegalClarity, Family Inceptions guide, and interactive maps (Maven Clinic, INCIID).
+- Opportunities: Surrogacy and donor coverage nuances from the APL (testing, agreements, post-transfer costs, cross-coverage rules); explicit medical vs elective egg freezing; ERISA self-funded exemptions; plan renewal timing and CalPERS July 2027 start; real-world eligibility and verification barriers (per JCO); mid-2027 renewal implications of the Oct APL revisions.
+
+**Suggested next:**
+- Blog post or map annotation clarifying surrogacy/donor service coverage under SB 729 and APL 25-021, including the Oct 2026 clarifications. Continue monitoring carrier APL implementations and any CRC rule finalization.
+
 ## 2026-11-21
 
 **New findings:**
